@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "_id": "63458adc4d2f012c14da11bf",
+      "Name": "auction1",
+      "Img_url": "https://i.ytimg.com/vi/4qFGWJSIEng/maxresdefault.jpg",
+      "Desc": "Land Rover is a British brand of predominantly four-wheel drive, off-road capable vehicles, owned by multinational car manufacturer Jaguar Land Rover, since 2008 a subsidiary of India's Tata Motors. ",
+      "Quantity": 2,
+      "Bids": 345345,
+      "createdAt": "2022-10-11T15:25:16.961Z",
+      "updatedAt": "2022-10-12T12:20:29.191Z"
+    },
+    {
+      "_id": "63460f567c551eb12dc1253c",
+      "Name": "auction2",
+      "Img_url": "https://images.homify.com/c_fill,f_auto,q_0,w_740/v1520224068/p/photo/image/2462141/DSC00003.jpg",
+      "Desc": "Narrow Frontage House Plans with 2 Storey House Design Pictures Having 2 Floor, 4 Total Bedroom, 3 Total Bathroom, and Ground Floor Area is",
+      "Quantity": 1,
+      "Bids": 1000000,
+      "createdAt": "2022-10-12T00:50:30.586Z",
+      "updatedAt": "2022-10-12T00:50:30.586Z"
+    },
+    {
+      "_id": "63460fbb7c551eb12dc1253e",
+      "Name": "auction3",
+      "Img_url": "https://www.nationaltenders.com/upload/productcategory/1493375387_3162.jpg",
+      "Desc": "We deliver customize bed with allegiant design within reasonable cost as per your bedroom concept. We want to share bedding ideas with you to make your bed comfortable, modern and beautiful, just like a luxury hotel bed and your bedroom should be a place to relax and unwind.",
+      "Quantity": 4,
+      "Bids": 7568,
+      "createdAt": "2022-10-12T00:52:11.433Z",
+      "updatedAt": "2022-10-12T08:25:37.894Z"
+    },
+    {
+      "_id": "634610787c551eb12dc12540",
+      "Name": "auction4",
+      "Img_url": "https://www.drivespark.com/img/2015/04/10-1428650285-old-indian-cars-tribute-02.jpg",
+      "Desc": "They sure don't make 'em like they used to. In the effort to constantly up the ante, manufacturers today are trying to combine slick",
+      "Quantity": 1,
+      "Bids": 300,
+      "createdAt": "2022-10-12T00:55:20.262Z",
+      "updatedAt": "2022-10-12T08:18:56.608Z"
+    }
+  ]
+}
